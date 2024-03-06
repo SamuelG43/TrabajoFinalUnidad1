@@ -1,8 +1,7 @@
 # TrabajoFinalUnidad1
 
 # Diagrama de estados
-## ![Image text] ("C:\Users\samue\Downloads\WhatsApp Image 2024-03-01 at 9.09.53 AM.jpeg")
-
+![Diagrama de Estados](https://github.com/SamuelG43/TrabajoFinalUnidad1/commit/0f1d0d8ffe1bcbcbedfa9d084fe1ca74db380611))
 
 # Código
 ```
