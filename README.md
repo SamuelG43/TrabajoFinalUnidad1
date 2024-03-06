@@ -2,7 +2,7 @@
 
 # Diagrama de estados
 ![Diagrama de Estados](https://github.com/SamuelG43/TrabajoFinalUnidad1/commit/0f1d0d8ffe1bcbcbedfa9d084fe1ca74db380611))
-![git ](WhatsApp Image 2024-03-01 at 9.09.53 AM.jpeg)
+![git ]DiagramadeEstados.jpeg)
 # Código
 ```
 enum class Task1States {
