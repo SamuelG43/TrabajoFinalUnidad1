@@ -1,7 +1,7 @@
 # TrabajoFinalUnidad1
 
 # Diagrama de estados
-![git ](DiagramadeEstados.jpeg)
+![git ](DiagramaDeEstadosFinal.jpeg)
 # Código
 ```
 enum class Task1States {
